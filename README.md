@@ -26,8 +26,8 @@ anaconda. If you don't use poetry, you'll have to run
 in folder with pyproject.toml.
 
 ## Examples  
-[Example 1](references/SolNet/XuOnSplittingTraining.md)
-[Example 2](references/SolNet/ProbstHyperparametersandTuning.md)
+- [Example 1](references/SolNet/XuOnSplittingTraining.md)
+- [Example 2](references/SolNet/ProbstHyperparametersandTuning.md)
 
 ## FAQ
 ### How do I change templates?
