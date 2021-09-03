@@ -121,9 +121,9 @@ def create_template_md(template, lines):
                 if key == line:
                     write = True
                     if key == 'Title':
-                        f.write(f"#{template[key]}\n")
+                        f.write(f"# {template[key]}\n")
                     else:
-                        f.write(f"\n##{key}\n")
+                        f.write(f"\n## {key}\n")
                         if key == 'Authors':
                             for author in template[key]:
                                 f.write(f"- {author[0]} {author[1]}\n")
