@@ -19,6 +19,7 @@ Journal of Analysis and Testing
 ## Research Question
 
 ### ARTICLE'S QUESTION AND HYPOTHESIS
+Study the effect of various data splitting methods.
 
 ## Motivation
 
