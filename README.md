@@ -25,6 +25,18 @@ anaconda. If you don't use poetry, you'll have to run
 `pip install .`  
 in folder with pyproject.toml.
 
+## Usage
+You can use run.py to run this
+
+```Python
+import referencenotes
+
+# Copy paste title from zotero
+value = 'Hyperparameters and Tuning Strategies for Random Forest'
+referencenotes.create_template(value, referencenotes.Templates.MD)
+
+```
+
 ## Examples  
 - [Example 1](references/SolNet/XuOnSplittingTraining.md)
 - [Example 2](references/SolNet/ProbstHyperparametersandTuning.md)
