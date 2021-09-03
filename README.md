@@ -36,6 +36,9 @@ value = 'Hyperparameters and Tuning Strategies for Random Forest'
 referencenotes.create_template(value, referencenotes.Templates.MD)
 
 ```
+Then run  
+`python run.py`  
+From you command terminal.
 
 ## Examples  
 - [Example 1](references/SolNet/XuOnSplittingTraining.md)
