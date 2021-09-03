@@ -1,18 +1,18 @@
-#On Splitting Training and Validation Set: A Comparative Study of Cross-Validation, Bootstrap and Systematic Sampling for Estimating the Generalization Performance of Supervised Learning
+# On Splitting Training and Validation Set: A Comparative Study of Cross-Validation, Bootstrap and Systematic Sampling for Estimating the Generalization Performance of Supervised Learning
 
-##Journal
+## Journal
 
 Journal of Analysis and Testing
 
-##Authors
+## Authors
 - Yun Xu
 - Royston Goodacre
 
-##Date of Publication
+## Date of Publication
 
 2018-07-00 7/2018
 
-##doi
+## doi
 
 10.1007/s41664-018-0068-2
 

@@ -1,19 +1,19 @@
-#Hyperparameters and Tuning Strategies for Random Forest
+# Hyperparameters and Tuning Strategies for Random Forest
 
-##Journal
+## Journal
 
 WIREs Data Mining and Knowledge Discovery
 
-##Authors
+## Authors
 - Philipp Probst
 - Marvin Wright
 - Anne-Laure Boulesteix
 
-##Date of Publication
+## Date of Publication
 
 2019-05-00 05/2019
 
-##doi
+## doi
 
 10.1002/widm.1301
 
